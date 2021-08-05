@@ -1,1 +1,1 @@
-Object detection-텐서플로 활용 오픈소스
+Object detection-tensorflow 활용 오픈소스
